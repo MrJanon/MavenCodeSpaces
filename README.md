@@ -1,0 +1,2 @@
+# MavenCodeSpaces
+use github codespaces
